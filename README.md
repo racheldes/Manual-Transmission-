@@ -6,8 +6,8 @@ This project simulates the behavior of a manual transmission vehicle, where the 
 Key Features
 The simulator provides an interface for users to mimic key driving actions with a manual transmission, including:
 
-Increasing Speed: Simulate pressing the gas pedal to increase speed incrementally.
-Decreasing Speed: Simulate releasing the gas pedal or braking to decrease speed incrementally.
-Changing Gears: Shift up or down by one gear, affecting speed potential and engine behavior.
-Status Reporting: Display the vehicle’s current state, indicating if the engine is "knocking" or "revving" based on the speed and gear.
-This simulation offers insight into how manual transmission vehicles work, providing a foundation for understanding the algorithmic control involved in speed and gear management in both manual and automatic transmission systems.
+- Increasing Speed: Simulate pressing the gas pedal to increase speed incrementally.
+- Decreasing Speed: Simulate releasing the gas pedal or braking to decrease speed incrementally.
+- Changing Gears: Shift up or down by one gear, affecting speed potential and engine behavior.
+- Status Reporting: Display the vehicle’s current state, indicating if the engine is "knocking" or "revving" based on the speed and gear.
+- This simulation offers insight into how manual transmission vehicles work, providing a foundation for understanding the algorithmic control involved in speed and gear management in both manual and automatic transmission systems.
